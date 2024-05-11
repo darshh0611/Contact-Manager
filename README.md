@@ -29,3 +29,6 @@ Set Up Environment Variables: Create a .env file in the root directory and confi
 
 Start the Server: Start the Express server by running npm start. The API will be accessible at http://localhost:5000 by default.
 
+# Privacy
+All right reserved @darshh0611 © 2024.
+
